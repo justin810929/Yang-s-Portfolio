@@ -1,5 +1,10 @@
 @import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600");
+/*
+	Industrious by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
 /* Basic */
 @-ms-viewport {
   width: device-width; }
@@ -2415,7 +2420,7 @@ body {
   background: #111111;
   color: rgba(255, 255, 255, 0.5);
   cursor: default;
-  height: 3.25rem;
+  height: 55px;
   left: 0;
   line-height: 3.25rem;
   position: fixed;
@@ -2425,14 +2430,14 @@ body {
 
     #header > .logo {
     color: #ffffff;
-    font-size: 18px;
+    font-size: 25px;
     font-weight: 600;
     height: inherit;
     line-height: inherit;
     padding: 0 1.25rem;
     text-decoration: none; }
     .logo{
-      margin-left: 45%;
+      margin-left: 42%;
     }
 
 @media screen and (max-width: 980px) {
@@ -2800,16 +2805,16 @@ body.is-menu-visible #menu {
   .logo{
     display: none;
   }
-  .logo-mobile{
+  .logo-mobile {
     display: block;
     color: #ffffff;
-    font-size: 1rem;
+    font-size: 1.5rem;
     font-weight: 600;
     height: inherit;
     line-height: inherit;
     padding: 0 1.25rem;
     text-decoration: none;
-    margin-left: 45%;
+    margin-left: 41%;
   }
 
   .links-web{
